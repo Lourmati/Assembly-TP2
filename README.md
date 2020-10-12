@@ -1,2 +1,2 @@
 # Assembly-TP2
-Basic assembly code to read &amp; write in a file
+Basic assembly code : write, read and display in an existing or created file
